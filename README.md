@@ -13,7 +13,7 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 
 ### Sample image from Dataset
 
-![sample image](plots/Samleimagefromdataset.png)
+![sample image](plots/Sampleimagefromdataset.png)
 
 ### Model Architecture
 ![Model Arch](plots/ModelLayer.png)
